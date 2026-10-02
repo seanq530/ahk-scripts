@@ -1,2 +1,3 @@
 # ahk-scripts
-color picker
+this script are for helping you in daily work
+
